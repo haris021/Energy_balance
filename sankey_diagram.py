@@ -5,7 +5,7 @@ import streamlit as st
 
 st.title("Pakistan Energy Balance")
 
-st.subheader("#RethinkingIndus")
+#st.subheader("#RethinkingIndus")
 
 data ={
     "data": [
