@@ -349,6 +349,6 @@ fig = go.Figure(data=[go.Sankey(
 st.write(fig)
 #fig.show()
 #fig.write_html("energy_flows.html")
-st.image("logo.png", width=100)
+#st.image("logo.png", width=100)
 st.markdown("Developed by Haris Mushtaq")
 st.text("")
